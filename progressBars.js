@@ -16,7 +16,7 @@ function DrawProgress(config) {
 	this.opacity = 1;
 	this.yPos = 0;
 	this.currentTime = 0;
-	this.callBack = config.onEndCallBack;
+	//this.callBack = config.onEndCallBack;
 	this.progressCancelled = false;
 
 	// getting random red fraction of color

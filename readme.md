@@ -18,3 +18,5 @@ first option will change color from red to dark grey during execution
 ![alt first option](img/progress3.png)
 
 on progress cycle complete *onEndCallBack* function can be called if provided 
+
+[demo page](http://alex-volkov.github.io/canvas-progress-bar/)
